@@ -3,6 +3,8 @@ Machine Learning for Bioinformatics
 
 This repository contains course notebooks, examples, and supporting materials for BIFX-546.
 
+Instructor: Sarangan "Ravi" Ravichandran
+
 The course is primarily based on:
 
 Joel Grus, Data Science from Scratch, 2nd Edition, O’Reilly Media, Inc.
