@@ -1,7 +1,7 @@
 # BIFX-546
 Machine Learning for Bioinformatics
 
-This repository contains course notebooks, examples, and supporting materials for BIFX-546.
+This repository contains course materials, hands-on labs, and assessment frameworks for a graduate-level course in applied machine learning for bioinformatics. It demonstrates full-cycle curriculum design, instructional delivery, and learner evaluation using real-world datasets and reproducible workflows.
 
 Instructor: Sarangan "Ravi" Ravichandran
 
@@ -33,3 +33,25 @@ The notebooks in this repository are adapted from the examples presented in Data
 	•	Minor adaptations to improve readability and instructional flow
 
 Students are encouraged to read the corresponding textbook chapters first, and then use these notebooks to reinforce understanding through hands-on practice and experimentation.
+
+## Course Design & Assessment Framework
+
+This course is designed using a structured instructional design approach aligned with ADDIE principles (Analysis, Design, Development, Implementation, Evaluation).
+
+### Learning Structure
+- Progressive, project-based learning from exploratory data analysis to modeling, evaluation, and interpretation
+- Emphasis on reproducibility, methodological rigor, and responsible use of machine learning
+- Hands-on instruction using Python and Jupyter/Colab notebooks with real-world datasets
+- Designed for learners with mixed technical backgrounds
+
+### Assessment & Evaluation
+Learner progress is evaluated through clearly defined milestones and performance-based assessments, including:
+- Multi-stage project deliverables (proposal, EDA, modeling, final demo)
+- Live notebook demonstrations and repository walkthroughs
+- Evaluation criteria emphasizing:
+  - Data quality and preprocessing
+  - Appropriate method selection and validation
+  - Interpretation, limitations, and responsible claims
+  - Reproducibility and code hygiene
+
+Detailed project requirements and grading rubrics are provided in the `/course-docs/` directory.
