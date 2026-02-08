@@ -6,10 +6,13 @@ These documents support the Design and Evaluation phases of the course and are u
 
 ## Contents
 
-- **Project_Deliverables_and_Grading_Requirements.pdf**  
+- **BIFX_546_ML_For_Bioinformatics.pdf**  
+  Course syllabus defining scope, learning objectives, weekly structure, policies, and overall course expectations.
+
+- **BIFX_546_Proj_Deliverables_and_Grading_Req.pdf**  
   Defines required project milestones, deliverables, timelines, and submission expectations.
 
-- **Course_Project_Rubric.pdf**  
+- **BIFX_546_Project_Rubric.pdf**  
   Describes detailed evaluation criteria and performance levels used to assess student work at each milestone.
 
 ## Intended Audience
