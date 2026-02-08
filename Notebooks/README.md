@@ -2,7 +2,7 @@
 
 This directory contains the hands-on instructional notebooks used in **BIFX-546: Machine Learning for Bioinformatics**.
 
-Each notebook is designed to support specific learning objectives and to reinforce concepts introduced in the textbook and lectures through practical, executable examples.
+Each notebook is designed to support specific learning objectives, reinforce concepts introduced in the textbook and lectures, and accommodate learners with mixed technical backgrounds by emphasizing conceptual understanding alongside implementation.
 
 ## How to Use These Notebooks
 
