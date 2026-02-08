@@ -77,3 +77,21 @@ Learner progress is evaluated through clearly defined milestones and performance
   - Reproducibility and code hygiene  
 
 Detailed project requirements and grading rubrics are provided in the `/course-docs/` directory.
+
+### Repository Structure (Overview)
+
+```text
+bifx-546/
+├── README.md
+├── Notebooks/
+│   ├── 01_intro_and_python_basics.ipynb
+│   ├── 02_statistics_probability.ipynb
+│   ├── 03_machine_learning_funadmentals.ipynb
+│   └──           .....
+│
+├── course-docs/
+│   ├── README.md
+│   ├── BIFX_546_ML_For_Bioinformatics.pdf
+│   ├── BIFX_546_Proj_Deliverables_and_Grading_Req.pdf
+│   └── BIFX_546_Project_Rubric.pdf
+```
