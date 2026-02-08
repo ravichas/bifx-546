@@ -42,6 +42,17 @@ The notebooks in this repository are adapted from the examples presented in *Dat
 
 Students are encouraged to read the corresponding textbook chapters first, and then use these notebooks to reinforce understanding through hands-on practice and experimentation.
 
+## Notebooks
+
+The `Notebooks/` directory contains hands-on instructional labs used during the course. Each notebook is designed to support a specific learning objective and includes:
+
+- Concept explanations in Markdown
+- Step-by-step code walkthroughs
+- Embedded discussion prompts
+- Examples intended for exploration and modification by learners
+
+Notebooks are structured to be run top-to-bottom in Google Colab and are used in conjunction with the course project milestones defined in `/course-docs/`.
+
 ---
 
 ## Course Design & Assessment Framework
