@@ -84,6 +84,7 @@ Detailed project requirements and grading rubrics are provided in the `/course-d
 bifx-546/
 ├── README.md
 ├── Notebooks/
+│   ├── README.md
 │   ├── 01_intro_and_python_basics.ipynb
 │   ├── 02_statistics_probability.ipynb
 │   ├── 03_machine_learning_funadmentals.ipynb
