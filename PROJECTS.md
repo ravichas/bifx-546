@@ -9,6 +9,7 @@ Hood College | Department of Bioinformatics | Spring 2026
 
 **Comparative Single-Nucleus Transcriptomics of Glioblastoma Across the Lifespan**
 Thomas Walsh | Spring 2026
+
 How does the tumor microenvironment change with age in glioblastoma? Using
 single-nucleus RNA-seq data from young and aged mouse models, this project
 applies clustering and differential expression analysis to map how immune and
@@ -19,6 +20,7 @@ older patients respond differently to treatment.
 
 **Predicting Diabetes Risk from Health Indicators**
 Duong Nguyen | Spring 2026
+
 Which lifestyle and clinical factors matter most for predicting diabetes? This
 project applies exploratory data analysis and interpretable machine learning to
 the Diabetes Health Indicators dataset, examining variables such as BMI, age,
@@ -30,6 +32,7 @@ for early screening and prevention.
 
 **Voice Biomarkers as Predictors of Parkinson's Disease Severity**
 Suleman Mohammad | Spring 2026
+
 Can speech patterns predict how severe Parkinson's disease has progressed? This
 project analyzes the Parkinson's Telemonitoring dataset, using voice-based
 biomedical features to predict UPDRS severity scores through regression modeling.
@@ -41,6 +44,7 @@ disease monitoring.
 
 **Rescuing Stranded Drug Assets Using Clinical Trial Data**
 Jason Ciemielewski | Spring 2026
+
 Many drugs pass Phase 1 safety trials but are abandoned in later phases for
 non-safety reasons — lack of efficacy, strategic pivots, or funding. This project
 mines ClinicalTrials.gov to identify these overlooked molecules and build a
@@ -53,6 +57,7 @@ candidates for repurposing — potentially accelerating drug discovery efforts.
 **Tracking Respiratory Disease Trends Across Age Groups Using Emergency
 Department Data**
 Kardamkumar Kiranbhai Patel | Spring 2026
+
 When do respiratory conditions peak, and who is most at risk? This project
 analyzes a longitudinal dataset of Emergency Department visits for respiratory
 conditions across U.S. states, spanning October 2023 to January 2026. By
