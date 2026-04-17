@@ -3,7 +3,7 @@
 Projects completed by graduate students applying machine learning concepts to
 real-world bioinformatics and health data problems. Shared with student consent.
 
-Hood College | Department of Computer Science | Spring 2026
+Hood College | Bioinformatics Program, Department of Computer Science | Spring 2026
 
 ---
 
