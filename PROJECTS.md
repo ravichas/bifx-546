@@ -8,6 +8,7 @@ Hood College | Department of Bioinformatics | Spring 2026
 ---
 
 **Comparative Single-Nucleus Transcriptomics of Glioblastoma Across the Lifespan**
+
 Thomas Walsh | Spring 2026
 
 How does the tumor microenvironment change with age in glioblastoma? Using
