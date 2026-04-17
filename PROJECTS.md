@@ -18,7 +18,7 @@ older patients respond differently to treatment.
 
 ---
 
-**Predicting Diabetes Risk from Health Indicators**
+**Predicting Diabetes Risk from Health Indicators**\
 Duong Nguyen | Spring 2026
 
 Which lifestyle and clinical factors matter most for predicting diabetes? This
@@ -30,7 +30,7 @@ for early screening and prevention.
 
 ---
 
-**Voice Biomarkers as Predictors of Parkinson's Disease Severity**
+**Voice Biomarkers as Predictors of Parkinson's Disease Severity**\
 Suleman Mohammad | Spring 2026
 
 Can speech patterns predict how severe Parkinson's disease has progressed? This
@@ -42,7 +42,7 @@ disease monitoring.
 
 ---
 
-**Rescuing Stranded Drug Assets Using Clinical Trial Data**
+**Rescuing Stranded Drug Assets Using Clinical Trial Data**\
 Jason Ciemielewski | Spring 2026
 
 Many drugs pass Phase 1 safety trials but are abandoned in later phases for
@@ -55,7 +55,7 @@ candidates for repurposing — potentially accelerating drug discovery efforts.
 ---
 
 **Tracking Respiratory Disease Trends Across Age Groups Using Emergency
-Department Data**
+Department Data**\
 Kardamkumar Kiranbhai Patel | Spring 2026
 
 When do respiratory conditions peak, and who is most at risk? This project
