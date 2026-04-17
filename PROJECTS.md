@@ -9,7 +9,6 @@ Hood College | Department of Bioinformatics | Spring 2026
 
 **Comparative Single-Nucleus Transcriptomics of Glioblastoma Across the Lifespan**\
 Thomas Walsh | Spring 2026
-
 How does the tumor microenvironment change with age in glioblastoma? Using
 single-nucleus RNA-seq data from young and aged mouse models, this project
 applies clustering and differential expression analysis to map how immune and
@@ -20,7 +19,6 @@ older patients respond differently to treatment.
 
 **Predicting Diabetes Risk from Health Indicators**\
 Duong Nguyen | Spring 2026
-
 Which lifestyle and clinical factors matter most for predicting diabetes? This
 project applies exploratory data analysis and interpretable machine learning to
 the Diabetes Health Indicators dataset, examining variables such as BMI, age,
@@ -32,7 +30,6 @@ for early screening and prevention.
 
 **Voice Biomarkers as Predictors of Parkinson's Disease Severity**\
 Suleman Mohammad | Spring 2026
-
 Can speech patterns predict how severe Parkinson's disease has progressed? This
 project analyzes the Parkinson's Telemonitoring dataset, using voice-based
 biomedical features to predict UPDRS severity scores through regression modeling.
@@ -44,7 +41,6 @@ disease monitoring.
 
 **Rescuing Stranded Drug Assets Using Clinical Trial Data**\
 Jason Ciemielewski | Spring 2026
-
 Many drugs pass Phase 1 safety trials but are abandoned in later phases for
 non-safety reasons — lack of efficacy, strategic pivots, or funding. This project
 mines ClinicalTrials.gov to identify these overlooked molecules and build a
@@ -57,7 +53,6 @@ candidates for repurposing — potentially accelerating drug discovery efforts.
 **Tracking Respiratory Disease Trends Across Age Groups Using Emergency
 Department Data**\
 Kardamkumar Kiranbhai Patel | Spring 2026
-
 When do respiratory conditions peak, and who is most at risk? This project
 analyzes a longitudinal dataset of Emergency Department visits for respiratory
 conditions across U.S. states, spanning October 2023 to January 2026. By
@@ -66,3 +61,28 @@ age-specific patterns in disease burden — with potential value for public heal
 planning and early warning systems.
 
 ---
+
+**Predicting the Next Dominant COVID-19 Variant from Surveillance Data**\
+Amanda Graham | Spring 2026
+Can we anticipate which COVID-19 variant will dominate before it peaks? This
+project uses California Department of Public Health surveillance data to build
+a predictive model for circulating variant succession. Using features such as
+7-day specimen averages, percentage composition, and daily change in variant
+counts, the project tests whether the next predominant strain can be identified
+early — with potential applications for vaccine planning and public health response.
+
+---
+
+**Single-Cell RNA-seq Analysis from Scratch — A Transparent Computational Pipeline**\
+Jamilet Cordon | Spring 2026
+Most single-cell RNA-seq workflows rely on black-box libraries that obscure the
+underlying mathematics. This project builds a transparent, SciPy-based pipeline
+for PBMC single-cell RNA-seq exploratory data analysis — implementing each step
+from first principles to ensure mathematical and biological alignment. The project
+covers data ingestion, preprocessing, and multiple modeling approaches, offering
+a reproducible foundation for researchers who want to understand what is happening
+under the hood.
+
+---
+
+*More projects will be added as they are completed.*
