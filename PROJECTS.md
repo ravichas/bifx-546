@@ -46,6 +46,7 @@ disease monitoring.
 
 **Rescuing Stranded Drug Assets Using Clinical Trial Data**\
 Jason Ciemielewski | Spring 2026
+
 Many drugs pass Phase 1 safety trials but are abandoned in later phases for
 non-safety reasons — lack of efficacy, strategic pivots, or funding. This project
 mines ClinicalTrials.gov to identify these overlooked molecules and build a
