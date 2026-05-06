@@ -94,4 +94,10 @@ under the hood.
 
 ---
 
+Climate-Driven Plant Disease Incidence Across Habitat Types\
+Arman Moshasha | Spring 2026
+
+Can temperature and precipitation predict how severely plants get infected? Using a merged dataset of 5,906 plant disease observations paired with WorldClim bioclimatic variables, this project applies regression and clustering to uncover how climate shapes disease incidence across wild, agricultural, and botanical garden habitats — with broader implications for anticipating plant disease outbreaks under shifting climate conditions.
+
+
 *More projects will be added as they are completed.*
